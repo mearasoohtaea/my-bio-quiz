@@ -93,7 +93,7 @@ questions = [
             "3": "범용백신은 한 가지 백신으로 모든 질병을 예방할 수 있도록 개발된다. (Universal vaccines are developed to prevent all diseases with a single vaccine.)",
             "4": "범용백신은 기존 백신보다 면역 반응을 보다 넓은 범위에서 유도하도록 목표로 한다. (Universal vaccines aim to induce an immune response over a broader range than conventional vaccines.)"
         },
-        "answer": "1"
+        "answer": "3"
     },
     {
         "id": 9,
