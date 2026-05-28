@@ -329,7 +329,7 @@ questions = [
 
 # 网页前端渲染逻辑
 st.title("🧬 生命科学的世界 (The World of Bioscience)")
-st.subheader("2025年第二学期 · 期末考试原题刷题系统 (全题库高能去重版)")
+st.subheader("生命科学原题刷题系统 (全题库高能去重版)")
 st.markdown("---")
 
 if 'current_index' not in st.session_state:
@@ -389,7 +389,7 @@ if idx < total_q:
             st.rerun()
 else:
     st.balloons()
-    st.success("🎉 恭喜你！全套 45 道生命科学期末考试题已全部复习完毕！")
+    st.success("🎉 恭喜你！全套 45 道生命科学考试题已全部复习完毕！")
     final_score = st.session_state.score
     accuracy = (final_score / total_q) * 100
     
