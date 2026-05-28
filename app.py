@@ -508,7 +508,7 @@ questions = [
 
 # 网页前端渲染逻辑 (웹 프론트엔드 렌더링 로직)
 st.title("🧬 생명과학의 세계 (The World of Bioscience)")
-st.subheader("生命科学历年真题开源智能学习系统")
+st.subheader("生命科学历年真题开源智能学习系统（45道去重增强版原题）")
 st.markdown("---")
 
 if 'current_index' not in st.session_state:
