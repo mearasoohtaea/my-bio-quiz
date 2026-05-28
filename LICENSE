@@ -1,6 +1,6 @@
-MIT License
+MIT License with Non-Commercial Restriction
 
-Copyright (c) 2026 Mearas Chen
+Copyright (c) 2026 YourName (把YourName改成你的名字或网名)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,8 +9,12 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. RESTRICTION: The Software and any substantial portion of it, including the 
+   question database, CANNOT be sold, resold, rented, or used for any commercial 
+   profiteering purposes. It must remain free and open to everyone.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -19,3 +23,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+中文版权及非商业限制说明（参考译文）：
+
+特此授权任何获得本软件及相关文档文件（以下简称“软件”）副本的人免费使用本软件，
+允许在不受限制的情况下处理本软件，包括但不限于使用、复制、修改、合并、发布、分发、
+以及转授副本的权利，但必须遵守以下条件：
+
+1. 上述版权声明和本许可声明必须包含在本软件的所有副本或实质性部分中。
+
+2. 核心限制条款：本软件及其任何实质性部分（包括但不限于题库数据）绝对禁止用于任何形式的
+   出售、转售、出租或任何形式的商业牟利行为！本软件必须对所有人保持完全免费和开源。
+
+本软件按“原样”提供，不提供任何形式的明示或暗示保证。在任何情况下，作者或版权持有人
+均不对因本软件或使用本软件而产生的任何索赔、损害或其他责任负责。
